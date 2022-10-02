@@ -1,5 +1,7 @@
 # reflect5
 BorlandC++, using C-version out of it.
+This project got abandoned, as the Linux-only version of Reflect is now called **reflector**, and is most suited for ssh-based sessions:
+- [here](https://github.com/serrasqueiro/reflect/tree/master/sockets/tcpori/reflect/src) - reflector.c at _github_
 
 ## Content
 Reflect was originally based on Unix, only, and then I have tried to adapt it to Win32 version.
